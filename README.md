@@ -81,14 +81,10 @@ I focus on **systems over components**: understanding how data, models, and back
 
 ## GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deorakamlesh07-droid&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deorakamlesh07-droid&layout=compact&theme=tokyonight" />
 </p>
 
-## Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deorakamlesh07-droid&theme=tokyonight&hide_border=false" />
-</p>
+
 
 ## Let's Connect
 Always open to collaborations, ideas, and building something impactful.
